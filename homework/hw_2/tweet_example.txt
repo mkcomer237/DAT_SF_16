@@ -1,0 +1,169 @@
+{
+    "created_at": "Mon Aug 10 21:38:40 +0000 2015",
+    "id": 630855811250532400,
+    "id_str": "630855811250532352",
+    "text": "Want to work in #SanFrancisco, CA? View our latest opening: http://t.co/G5Thb9SswK #IT #Job #Jobs #Hiring #CareerArc",
+    "source": "<a href=\"http://www.tweetmyjobs.com\" rel=\"nofollow\">TweetMyJOBS</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 99194827,
+        "id_str": "99194827",
+        "name": "TMJ-SFO IT Adm. Jobs",
+        "screen_name": "tmj_SFO_adm",
+        "location": "San Francisco, CA",
+        "url": "http://tweetmyjobs.com",
+        "description": "Follow this account for geo-targeted IT-Support/Administration job tweets in San Francisco, CA from TweetMyJobs. Need help? Tweet us at @TweetMyJobs!",
+        "protected": false,
+        "verified": false,
+        "followers_count": 346,
+        "friends_count": 311,
+        "listed_count": 6,
+        "favourites_count": 0,
+        "statuses_count": 131,
+        "created_at": "Fri Dec 25 00:54:36 +0000 2009",
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "253956",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/315409639/Twitter-BG_2_bg-image.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/315409639/Twitter-BG_2_bg-image.jpg",
+        "profile_background_tile": false,
+        "profile_link_color": "96BEDF",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "407DB0",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2303699914/Logo_tmj_new2b_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2303699914/Logo_tmj_new2b_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/99194827/1349358858",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": {
+        "type": "Point",
+        "coordinates": [
+            37.786799,
+            -122.407396
+        ]
+    },
+    "coordinates": {
+        "type": "Point",
+        "coordinates": [
+            -122.407396,
+            37.786799
+        ]
+    },
+    "place": {
+        "id": "5a110d312052166f",
+        "url": "https://api.twitter.com/1.1/geo/id/5a110d312052166f.json",
+        "place_type": "city",
+        "name": "San Francisco",
+        "full_name": "San Francisco, CA",
+        "country_code": "US",
+        "country": "United States",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -122.514926,
+                        37.708075
+                    ],
+                    [
+                        -122.514926,
+                        37.833238
+                    ],
+                    [
+                        -122.357031,
+                        37.833238
+                    ],
+                    [
+                        -122.357031,
+                        37.708075
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SanFrancisco",
+                "indices": [
+                    16,
+                    29
+                ]
+            },
+            {
+                "text": "IT",
+                "indices": [
+                    83,
+                    86
+                ]
+            },
+            {
+                "text": "Job",
+                "indices": [
+                    87,
+                    91
+                ]
+            },
+            {
+                "text": "Jobs",
+                "indices": [
+                    92,
+                    97
+                ]
+            },
+            {
+                "text": "Hiring",
+                "indices": [
+                    98,
+                    105
+                ]
+            },
+            {
+                "text": "CareerArc",
+                "indices": [
+                    106,
+                    116
+                ]
+            }
+        ],
+        "trends": [],
+        "urls": [
+            {
+                "url": "http://t.co/G5Thb9SswK",
+                "expanded_url": "http://bit.ly/1JS6ZyF",
+                "display_url": "bit.ly/1JS6ZyF",
+                "indices": [
+                    60,
+                    82
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1439242720793"
+}
